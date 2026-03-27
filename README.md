@@ -13,6 +13,9 @@ In this lab, you learned about the basic building block of sequential circuits: 
 
 ## Names
 Maclean Dunkin
+Isaiah
+
+Hello! I would like to mention that I am the person mentioned they would be out of town this week for YC. I actually did this code independently on my own and tested on a simulator. I was hoping I can still get credit. Happy to run on board in-person sometime if needed just shoot me an email.
 
 ## Summary
 Latches store bits.
